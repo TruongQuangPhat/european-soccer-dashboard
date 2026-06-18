@@ -1,6 +1,8 @@
 .venv
 
-# Raw datasets
 data/raw/*
 !data/raw/.gitkeep
 !data/raw/README.md
+
+__pycache__/
+.ipynb_checkpoints/
