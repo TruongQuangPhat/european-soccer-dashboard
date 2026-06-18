@@ -1,1 +1,6 @@
 .venv
+
+# Raw datasets
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/README.md
